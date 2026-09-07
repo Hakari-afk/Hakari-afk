@@ -1,10 +1,4 @@
-### 👋 Sup I'm [L]
-
-<!-- Баннер (картинка сверху) -->
-<p align="center">
-  <img src="ССЫЛКА_НА_ВАШУ_КАРТИНКУ" alt="banner" width="100%">
-</p>
-
+### 👋 Sup I'm L
 <!-- Счётчик посетителей -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ВАШ_НИК&style=flat-square&color=blue" alt="visitors" />
