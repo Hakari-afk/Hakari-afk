@@ -2,7 +2,7 @@
 
 ### 👋 Sup, I'm L
 ---
-<img src="https://i.postimg.cc/cHRvpyQh/471599457-5ae67440-3cd6-4183-b803-693dc42c71ec.gif" alt="banner" width="100%">
+<img src=[![471599457-5ae67440-3cd6-4183-b803-693dc42c71ec.gif](https://i.postimg.cc/cHRvpyQh/471599457-5ae67440-3cd6-4183-b803-693dc42c71ec.gif)](https://postimg.cc/R60CtYpJ) width="100%">
 ---
 ### 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=cs" alt="C#">
