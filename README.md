@@ -1,6 +1,6 @@
-👋 Sup I'm L
+### 👋 Sup I'm L
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=cs" alt="C#">
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua">
