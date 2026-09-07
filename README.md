@@ -1,4 +1,4 @@
-### 👋 Sup, I'm [Ваш Ник]
+### 👋 Sup, I'm L
 
 <!-- БАННЕР С ВАШЕЙ ГИФКОЙ -->
 <p align="center">
@@ -21,21 +21,7 @@
 
 ### 📫 Contact me
 
-<p align="center">
-  <a href="https://discord.com/users/ваш_дискорд">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://t.me/ваш_телеграм">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:ваша_почта@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+* Discord: @_v1rt4al
+* Telegram: @noobvplat
 
 ---
-
-<!-- СЧЁТЧИК ПРОСМОТРОВ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_НИК&style=flat-square&color=blue" alt="Просмотры профиля" />
-</p>
