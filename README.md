@@ -23,8 +23,8 @@
 </p>
 
 ### 📫 Contact me
-* Discord: @ваш_дискорд
-* Telegram: @ваш_телеграм
+* Discord: @_v1rt4al
+* Telegram: @noobvplat
 
 <!-- График активности (как внизу) -->
 <p align="center">
