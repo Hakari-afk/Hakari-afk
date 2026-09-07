@@ -15,10 +15,6 @@
   <img src="https://skillicons.dev/icons?i=lua" alt="Lua">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-</p>
-
-<!-- ДОПОЛНИТЕЛЬНЫЕ ИКОНКИ (если нужно - удалите) -->
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML">
   <img src="https://skillicons.dev/icons?i=css" alt="CSS">
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
