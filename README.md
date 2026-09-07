@@ -5,7 +5,7 @@
 ---
 
 
-<img src="https://i.postimg.cc/Xrw91Zj9/471621368-a7541284-fde4-4acb-9ac2-f95ba078cd60.gif">
+<img src="https://i.postimg.cc/Xrw91Zj9/471621368-a7541284-fde4-4acb-9ac2-f95ba078cd60.gif" width="100%">
 
 ---
 
