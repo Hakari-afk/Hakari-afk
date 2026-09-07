@@ -29,8 +29,4 @@
 </a>
 
 ---
-
-<!-- СЧЁТЧИК ПРОСМОТРОВ -->
-<img src="https://komarev.com/ghpvc/?username=ваш_ник&style=flat-square&color=blue" alt="Просмотры профиля" />
-
 </div>
