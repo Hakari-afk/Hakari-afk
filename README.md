@@ -1,9 +1,9 @@
 ### 👋 Sup I'm L
-<!-- Счётчик посетителей -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_НИК&style=flat-square&color=blue" alt="visitors" />
-</p>
 
+<!-- Баннер (картинка сверху) -->
+<p align="center">
+  <img src="[ССЫЛКА_НА_ВАШУ_КАРТИНКУ](https://ru.pinterest.com/pin/1122029694653479747/)" alt="banner" width="100%">
+</p>
 ### 🛠 Tech Stack
 <!-- Иконки технологий -->
 <p align="center">
@@ -17,8 +17,8 @@
 </p>
 
 ### 📫 Contact me
-* Discord: @_v1rt4al
-* Telegram: @noobvplat
+* Discord: @ваш_дискорд
+* Telegram: @ваш_телеграм
 
 <!-- График активности (как внизу) -->
 <p align="center">
