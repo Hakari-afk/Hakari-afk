@@ -2,7 +2,7 @@
 
 <!-- Баннер (картинка сверху) -->
 <p align="center">
-  <img src="[ССЫЛКА_НА_ВАШУ_КАРТИНКУ](https://ru.pinterest.com/pin/1122029694653479747/)" alt="banner" width="100%">
+  <img src="https://ru.pinterest.com/pin/1122029694653479747/" alt="banner" width="100%">
 </p>
 ### 🛠 Tech Stack
 <!-- Иконки технологий -->
@@ -17,10 +17,5 @@
 </p>
 
 ### 📫 Contact me
-* Discord: @ваш_дискорд
-* Telegram: @ваш_телеграм
-
-<!-- График активности (как внизу) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
+* Discord: @_v1rt4al
+* Telegram: @noobvplat
